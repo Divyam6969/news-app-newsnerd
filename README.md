@@ -1,9 +1,7 @@
 <h1>NewsNerd</h1>
 
-Website preview👇
 <image src="gif.gif">
-
-Screenshot👇
+  
 <image  width="600px" src="screenshot.jpg">
 
 
