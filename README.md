@@ -1,6 +1,8 @@
 <h1>NewsNerd</h1>
 
+<image src="screenshot.jpeg">
 <image src="gif.gif">
+
 
 <p>Welcome to NewsNerd, a website that displays news from various categories. The website is built using React and NewsApi and provides an easy to use interface for browsing the latest news.</p>
 
