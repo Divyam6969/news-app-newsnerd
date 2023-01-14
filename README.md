@@ -1,6 +1,6 @@
 <h1>NewsNerd</h1>
 
-<image  width="50px" src="screenshot.jpg">
+<image  width="600px" src="screenshot.jpg">
 <image src="gif.gif">
 
 
