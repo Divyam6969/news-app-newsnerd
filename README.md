@@ -21,7 +21,7 @@ npm start
 <p>If you would like to contribute to the project, please fork the repository and make a pull request. Any contributions, whether they are bug fixes or new features, are welcome.</p>
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+<p>This project is licensed under the MIT License. See the <a href="LICENSE.txt">LICENSE</a> file for details.</p>
 
 <h2>Contact</h2>
 <p>If you have any questions or need help with the website, please feel free to reach out to me.</p>
