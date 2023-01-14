@@ -1,6 +1,6 @@
 <h1>NewsNerd</h1>
 
-<image src="screenshot.jpeg">
+<image src="screenshot.jpg">
 <image src="gif.gif">
 
 
