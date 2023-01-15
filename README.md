@@ -1,13 +1,15 @@
 <h1>NewsNerd</h1>
 
+I've not hosted this website right now because I haven't subscribed to newsAPI service :( but you can download it and then run "npm run start" to run it as local host 
+Here are few glimpse of this website 
+
 <image src="gif.gif">
   
 <image  width="600px" src="screenshot.jpg">
 
 
 
-
-<p>Welcome to NewsNerd, a website that displays news from various categories. The website is built using React and NewsApi and provides an easy to use interface for browsing the latest news.</p>
+<p>Welcome to NewsNerd, a website that displays news from various categories. The website is built using React and NewsApi and provides an easy to use interface for browsing the latest news. I've not hosted this website right now because I haven't subscribed to newsAPI service but you can download it and then run "npm run start" to run it as local host </p>
 
 <h2>Features</h2>
 <ul>
